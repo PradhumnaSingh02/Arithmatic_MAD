@@ -1,6 +1,6 @@
 <h1 align=center> Information about the Project </h1>
 
-<embed type="image/jpg" src="pic_trulli.jpg" width="300" height="200">
+<embed type="image/jpg" src="https://images.app.goo.gl/5G4UoMVkzwi8oxBz5" width="300" height="200">
 <ul>
 <li>This Project is a partially built project on Simple Arithmetic Game for <i>single player</i>.</li>
 
